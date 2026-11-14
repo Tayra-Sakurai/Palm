@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Palm (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Palm (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
